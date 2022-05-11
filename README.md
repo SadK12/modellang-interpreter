@@ -1,3 +1,3 @@
-# modellang_interpreter
+# modellang-interpreter
 
-README в процессе разработки.
+Создание интерпретатора модельного языка средствами С++.
